@@ -6,6 +6,7 @@ namespace Test_Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello first time");
             Console.WriteLine("Hello World!");
         }
     }
