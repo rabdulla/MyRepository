@@ -10,6 +10,10 @@ namespace Test_Program
             {
 
             }
+            void P()
+            {
+                Console.WriteLine("Hallo");
+            }
             Console.ReadKey();
         }
     }
