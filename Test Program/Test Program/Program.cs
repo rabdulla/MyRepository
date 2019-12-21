@@ -6,7 +6,10 @@ namespace Test_Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello first time");
+            void Print()
+            {
+
+            }
             Console.ReadKey();
         }
     }
